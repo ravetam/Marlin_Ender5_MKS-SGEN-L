@@ -1,4 +1,10 @@
-# Marlin 3D Printer Firmware
+# Marlin 3D Printer Firmware for Ender 5
+
+- Board - MKS SGEN L v1.0
+- Driver - MKS TMC2209 v2.0
+- Screen - Default + MKS TFT35
+- Leveling - MKS 3D Touch
+
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
